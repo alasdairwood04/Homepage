@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+
+.bg-diagonal-hero {
+  background-image: linear-gradient(110deg, #0d7ea3 55%, transparent 55%);
+}
